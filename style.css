@@ -44,7 +44,7 @@ body {
 
 .cards
 {
-  
+  display: flex;
 }
 
 .content
